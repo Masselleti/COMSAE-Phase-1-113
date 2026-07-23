@@ -18,6 +18,6 @@ else
   /usr/bin/open "$URL"
 fi
 
-echo "COMSAE Form 113 is open at $URL"
+echo "COMSAE Phase 1 - Form 113 is open at $URL"
 echo "Server log: $LOG_FILE"
 echo "You can close this Terminal window."
